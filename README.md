@@ -2,7 +2,7 @@
 
 # Hi, I'm Pranjali 👋
 
-### GenAI Engineer | MSc AI Systems @ NUS
+### GenAI Engineer | Mtech AI Systems @ NUS
 
 I build AI-powered solutions and explore the intersection of software engineering, intelligent systems, and real-world applications.
 
